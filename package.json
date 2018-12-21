@@ -1,6 +1,6 @@
 {
   "name": "wassimchegham",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A personal card for Wassim Chegham (@manekinekko) - inspired by Tierney Cyren (@bitandbang)",
   "main": "/bin/card.js",
   "bin": {
@@ -26,8 +26,8 @@
     "business card"
   ],
   "authors": [
-	"Tierney Cyren <hello@bnb.im> (http://bnb.im)",
-	"Wassim Chegham <github@wassim.app> (https://wassim.app)"
+    "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+    "Wassim Chegham <github@wassim.app> (https://wassim.app)"
   ],
   "license": "MIT",
   "files": [
